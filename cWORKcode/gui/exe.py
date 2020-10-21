@@ -1,6 +1,6 @@
 import sys
 import os
-#import win32gui, win32con
+#import win32gui, win32con                                     # these lines hide the command window 
 #The_program_to_hide = win32gui.GetForegroundWindow()
 #win32gui.ShowWindow(The_program_to_hide , win32con.SW_HIDE)
 
