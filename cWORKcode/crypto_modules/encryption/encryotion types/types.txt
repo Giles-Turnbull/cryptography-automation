@@ -1,0 +1,25 @@
+ceasar shift @				-----------
+playfair				-----------
+SeriatedPlayfair (need define period)
+bifid (need define period)
+6x6 bifid (need define period)
+fractionated morse
+trifid (need define period)
+Nicodemus vigenere
+
+
+PeriodicGromark #=
+ragbaby #=
+
+
+portax ##
+homophonic ## key length
+morbit ## key length
+
+
+
+=================
+Nicodemus
+phillips #
+portax (even numeber of letters)
+=================

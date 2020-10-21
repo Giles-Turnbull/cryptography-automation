@@ -1,0 +1,7 @@
+admin: True
+gender: male
+DOB: 29/10/01
+username: Administrator
+password: tester123
+activity: 05:11PM on October 20, 2020
+laston: 12:37PM on May 08, 2020
